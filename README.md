@@ -53,7 +53,7 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
 <a href="https://discordapp.com/users/Tim.#4449"><img align="left" alt="TimS" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a><p>Discord</p>
 
 **Other Links:** 
-<div>
+
  <span>LinkedIn</span><a href="https://www.linkedin.com/in/tim-sch%C3%B6nwald-2b9294220/">
   <img align="left" alt="Tim Schoenwalds LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -69,8 +69,6 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
   <span>CodePen</span><a href="https://codepen.io/tims27/pens/showcase">
   <img align="left" alt="Tim Schoenwalds CodePen" width="22px" src="https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_125,h_125,dpr_2.625/f_auto,q_auto/v1637703548/Button-White-Small.png?_i=AA"/>
 </a>
-
-</div>
     
 <!--
 - 🔭 I’m currently working on ...
