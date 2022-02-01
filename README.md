@@ -61,15 +61,15 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
  <a href="https://www.linkedin.com/in/tim-sch%C3%B6nwald-2b9294220/"><span>LinkedIn</span>
   <img align="left" alt="Tim Schoenwalds LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br>
+
 <a href="https://www.hackerrank.com/timschoenwald"><span>HackerRank</span>
   <img align="left" alt="Tim Schoenwalds HackerRank" width="22px" src="https://img.icons8.com/windows/50/000000/hackerrank.png"/>
 </a>
-<br>
+
 <a href="https://www.freecodecamp.org/tims27"><span>FreeCodeCamp</span>
   <img align="left" alt="Tim Schoenwalds FreeCodeCamp" width="22px" src="https://raw.githubusercontent.com/fizzed/font-mfizz/master/src/svg/freecodecamp.svg"/>
 </a>
-<br>
+
   <a href="https://codepen.io/tims27/pens/showcase"><span>CodePen</span>
   <img align="left" alt="Tim Schoenwalds CodePen" width="22px" src="https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_125,h_125,dpr_2.625/f_auto,q_auto/v1637703548/Button-White-Small.png?_i=AA"/>
 </a>
