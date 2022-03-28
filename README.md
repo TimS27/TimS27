@@ -3,7 +3,7 @@
 I'm a passionate upcoming full stack web developer from Germany.<br>
 I'm also currently studying Physics at the University of Kaiserslautern, after finishing my B.Sc. in Business Administration and Computer Science prior.
 
-🌱 I’m currently interested Frontend Frameworks, web3,  blockchain, smart contracts & fine algoritms.
+🌱 I’m currently studying Node.js, Frontend Frameworks and web3.
 
 **Languages and Tools:**  
 
@@ -14,31 +14,36 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
       <code><img height="20" alt="Html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
       <code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
       <code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+      <code><img height="20" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
       <code><img height="20" alt="F#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fsharp/fsharp.png"></code>
       <code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
     </span>
 <br>
     <span>Frameworks & Libaries:</span>
     <span>
+      <code><img height="20" alt="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
       <code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-      <code><img height="20" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-      <code><img height="20" alt="jQuery" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+      <!--<code><img height="20" alt="jQuery" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>-->
       <code><img height="20" alt="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+      <code><img height="20" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+      <code><img height="20" alt="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
     <span>
 <br>
-    <span>Extensions:<span>
+    <!--<span>Extensions:<span>
     <span>
       <code><img height="20" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
       <code><img height="20" alt="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
     </span>  
-<br>
+<br>-->
     <span>Backend:<span>
     <span>
       <code><img height="20" alt="NodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+      <code><img height="20" alt="Express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
       <code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-      <code><img height="20" alt="Chai" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67"></code>
-      <code><img height="20" alt="Chai" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-      <code><img height="20" alt="MySQL" src="https://smartone.ro/wp-content/uploads/2019/01/mongodb.jpg"></code>
+      <code><img height="20" alt="MongoDB" src="https://smartone.ro/wp-content/uploads/2019/01/mongodb.jpg"></code>
+      <code><img height="20" alt="Mongoose" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
+      <code><img height="20" alt="GraphQl" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+      <!--<code><img height="20" alt="Chai" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67"></code>-->
     </span>  
 <br>
     <span>Tools:</span>
@@ -73,7 +78,7 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
   <a href="https://codepen.io/tims27/pens/showcase"><span>CodePen</span>
   <img align="left" alt="Tim Schoenwalds CodePen" width="22px" src="https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_125,h_125,dpr_2.625/f_auto,q_auto/v1637703548/Button-White-Small.png?_i=AA"/>
 </a>
-    
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
