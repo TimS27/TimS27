@@ -58,10 +58,10 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
   </div>
 </div>
 <br>
-    
-**Feel free to contact me via:**
   
-<a href="https://discordapp.com/users/Tim.#4449"><img align="left" alt="TimS" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"><p>Discord</p></a>
+**Feel free to contact me via:**
+ 
+<a href="https://discordapp.com/users/Tim.#4449"><img align="left" alt="TimS" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"><span>Discord</span></a>
 
 **Other Links:** 
  <!--     
