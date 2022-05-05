@@ -3,10 +3,10 @@
 I'm a full stack web developer from Germany.<br>
 I'm also currently studying Physics at the University of Kaiserslautern, after finishing my B.Sc. in Business Administration and Computer Science prior.
 
-🌱 I’m currently studying Node.js, Frontend Frameworks and web3.
+🌱 I’m currently studying Node.js, Backend Frameworks and web3.
 
-**Languages and Tools:**  
 
+**Languages and Tools:**
 <div>
   <img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=TimS27&layout=compact&theme=dark>
     <span>Languages:</span>
@@ -44,7 +44,7 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
       <code><img height="20" alt="MongoDB" src="https://smartone.ro/wp-content/uploads/2019/01/mongodb.jpg"></code>
       <code><img height="20" alt="Mongoose" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
       <code><img height="20" alt="GraphQl" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-      (currently learning)
+      (currently studying)
       <!--<code><img height="20" alt="Chai" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67"></code>-->
     </span>  
 <br>
@@ -59,11 +59,11 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
 </div>
 <br>
   
-**Feel free to contact me via:**
+<!--**Feel free to contact me via:**
  
-<a href="https://discordapp.com/users/Tim.#4449"><img align="left" alt="TimS" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"><span>Discord</span></a>
+<a href="https://discordapp.com/users/Tim.#4449"><img align="left" alt="TimS" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"><span>Discord</span></a>-->
 
-**Other Links:** 
+<!--**Other Links:** -->
  <!--     
  <a href="https://www.linkedin.com/in/tim-sch%C3%B6nwald-2b9294220/"><span>LinkedIn</span>
   <img align="left" alt="Tim Schoenwalds LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -80,10 +80,12 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
   <a href="https://codepen.io/tims27/pens/showcase"><span>CodePen</span>
   <img align="left" alt="Tim Schoenwalds CodePen" width="22px" src="https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_125,h_125,dpr_2.625/f_auto,q_auto/v1637703548/Button-White-Small.png?_i=AA"/>
 </a>-->
-      
+<br>
+<br>
 <table border='0'>
     <tr>
-        <td><a href="https://www.linkedin.com/in/tim-sch%C3%B6nwald-2b9294220/"><span>LinkedIn</span>
+      <td><a href="https://discordapp.com/users/Tim.#4449"><img align="left" alt="TimS" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"><span>Discord</span></a></td>
+      <td><a href="https://www.linkedin.com/in/tim-sch%C3%B6nwald-2b9294220/"><span>LinkedIn</span>
   <img align="left" alt="Tim Schoenwalds LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a></td>
       <td><a href="https://www.hackerrank.com/timschoenwald"><span>HackerRank</span>
