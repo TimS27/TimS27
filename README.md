@@ -28,6 +28,7 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
       <code><img height="20" alt="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
       <code><img height="20" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
       <code><img height="20" alt="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+      <code><img height="20" alt="D3" src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png"></code>
     <span>
 <br>
     <!--<span>Extensions:<span>
