@@ -4,7 +4,8 @@
 I'm also currently studying Physics at the University of Kaiserslautern, after finishing my B.Sc. in Business Administration and Computer Science prior.
 
 🌱 I’m currently studying Node.js, Backend Frameworks and web3.-->
-<img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=TimS27&layout=compact&theme=dark>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimS27&layout=compact&theme=dark)
+<!--<img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=TimS27&layout=compact&theme=dark>-->
 
 <!--**Languages and Tools:**
 <div>
@@ -24,7 +25,7 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
     <span>
       <code><img height="20" alt="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
       <code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-      <!--<code><img height="20" alt="jQuery" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>-->
+      <code><img height="20" alt="jQuery" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
       <code><img height="20" alt="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
       <code><img height="20" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
       <code><img height="20" alt="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
@@ -46,9 +47,9 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
       <code><img height="20" alt="Mongoose" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
       <code><img height="20" alt="GraphQl" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
       (currently studying)
-      <!--<code><img height="20" alt="Chai" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67"></code>-->
-    <!--</span>  
-<br>
+      <!--<code><img height="20" alt="Chai" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67"></code>
+    </span>--> 
+<!--<br>
     <span>Tools:</span>
     <span>
       <code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
