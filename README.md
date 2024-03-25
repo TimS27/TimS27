@@ -1,12 +1,12 @@
 ### Hi there, I'm Tim 👋
 
-I'm a full stack web developer from Germany.<br>
+<!--I'm a Physicist from Germany.<br>
 I'm also currently studying Physics at the University of Kaiserslautern, after finishing my B.Sc. in Business Administration and Computer Science prior.
 
-🌱 I’m currently studying Node.js, Backend Frameworks and web3.
+🌱 I’m currently studying Node.js, Backend Frameworks and web3.-->
+<img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=TimS27&layout=compact&theme=dark>
 
-
-**Languages and Tools:**
+<!--**Languages and Tools:**
 <div>
   <img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=TimS27&layout=compact&theme=dark>
     <span>Languages:</span>
@@ -37,7 +37,7 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
       <code><img height="20" alt="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
     </span>  
 <br>-->
-    <span>Backend:<span>
+   <!-- <span>Backend:<span>
     <span>
       <code><img height="20" alt="NodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
       <code><img height="20" alt="Express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
@@ -47,7 +47,7 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
       <code><img height="20" alt="GraphQl" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
       (currently studying)
       <!--<code><img height="20" alt="Chai" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67"></code>-->
-    </span>  
+    <!--</span>  
 <br>
     <span>Tools:</span>
     <span>
@@ -58,7 +58,7 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
     </span>
   </div>
 </div>
-<br>
+<br>-->
   
 <!--**Feel free to contact me via:**
  
@@ -81,7 +81,7 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
   <a href="https://codepen.io/tims27/pens/showcase"><span>CodePen</span>
   <img align="left" alt="Tim Schoenwalds CodePen" width="22px" src="https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_125,h_125,dpr_2.625/f_auto,q_auto/v1637703548/Button-White-Small.png?_i=AA"/>
 </a>-->
-<br>
+<!--<br>
 <br>
 <table border='0'>
     <tr>
@@ -99,7 +99,7 @@ I'm also currently studying Physics at the University of Kaiserslautern, after f
   <img align="left" alt="Tim Schoenwalds CodePen" width="22px" src="https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_125,h_125,dpr_2.625/f_auto,q_auto/v1637703548/Button-White-Small.png?_i=AA"/>
 </a></td>
     </tr>
-</table>
+</table>-->
 
 
 <!--
